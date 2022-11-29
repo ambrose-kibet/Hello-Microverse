@@ -1,4 +1,4 @@
-a name="readme-top"></a>
+<a name="readme-top"></a>
 
 <div align="center">
 
@@ -13,15 +13,16 @@ a name="readme-top"></a>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  -
+
 - [💻 Getting Started](#getting-started)
+
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
+
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 
@@ -51,16 +52,10 @@ a name="readme-top"></a>
 
 ### Key Features <a name="key-features"></a>
 
-- **Home_page**
+- **Home page**
 - **stylesheet**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,57 +63,16 @@ a name="readme-top"></a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+## To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
+To get this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/ambrose-kibet/Hello-Microverse.git
 ```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 - <!-- AUTHORS -->
 
